@@ -13,7 +13,7 @@ On benchmark ATP-binding protein datasets, our model achieves an AUC of 0.97, si
 ![workflow](https://github.com/B1607/ATPirP/blob/8dda76bf92fe8127ed4e21a740aa6d02e9298d94/other/Figure.png)
 ## Dataset <a name="Dataset"></a>
 
-| Dataset            | Protein Sequence | DNA Interacting Residues | Non-Interacting Residues |
+| Dataset            | Protein Sequence | ATP Interacting Residues | Non-Interacting Residues |
 |--------------------|------------------|--------------------------|--------------------------|
 | Training data      | 388              | 5657                     | 142086                   |
 | Independent data   | 41               | 681                      | 14152                    |
