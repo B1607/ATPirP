@@ -9,7 +9,7 @@ Adenosine triphosphate (ATP) plays a vital role in providing energy and enabling
 On benchmark ATP-binding protein datasets, our model achieves an AUC of 0.97, significantly improving on prior sequence-based models and outperforming CNN baselines. This demonstrates the utility of pre-trained language models and multi-window CNNs for advanced sequence-based prediction of ATP-binding residues. Our approach provides a promising new direction for elucidating binding mechanisms and interactions from primary structure.
 
 <br>
-![workflow](https://github.com/B1607/ATPirP/blob/be3202dafd77861cf76c24d6b7d988965c46e51d/Other/Figure.png)
+![workflow](https://github.com/B1607/ATPirP/blob/aa273fb569ce027b34fac6a3ec3024f36d890ca4/Other/Figure.png)
 
 ## Dataset <a name="Dataset"></a>
 
